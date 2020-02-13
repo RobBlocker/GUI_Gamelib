@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-#rob
+# Rob Blocker
 #2/11/2020
+# gui_gamelib.py
 
 #Imports
 import tkinter as tk
